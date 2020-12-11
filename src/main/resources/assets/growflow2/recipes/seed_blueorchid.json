@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "DD"
+    ],
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:red_flower",
+            "data": 1
+        }
+    },
+    "result":
+    {
+        "item": "growflow2:seed_blueorchid",
+        "count": 2
+    }
+}

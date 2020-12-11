@@ -1,0 +1,16 @@
+{
+    "forge_marker": 1,
+    
+    "variants": 
+    {
+        "age=0": { "model": "growflow2:growflow_oxeyedaisy0" },
+        "age=1": { "model": "growflow2:growflow_oxeyedaisy1" },
+        "age=2": { "model": "growflow2:growflow_oxeyedaisy2" },
+        "age=3": { "model": "growflow2:growflow_oxeyedaisy3" },
+        "age=4": { "model": "growflow2:growflow_oxeyedaisy4" },
+        "age=5": { "model": "growflow2:growflow_oxeyedaisy5" },
+        "age=6": { "model": "growflow2:growflow_oxeyedaisy6" },
+        "age=7": { "model": "growflow2:growflow_oxeyedaisy7" }
+    }
+}
+

@@ -1,0 +1,16 @@
+
+// Blocks
+tile.growflow_dandelion.name=Dandelion
+tile.growflow_poppy.name=Poppy
+tile.growflow_allium.name=Allium
+tile.growflow_azurebluet.name=Azure Bluet
+tile.growflow_blueorchid.name=Blue Orchid
+tile.growflow_oxeyedaisy.name=Oxeye Daisy
+
+// Items
+item.seed_dandelion.name=Dandelion Seeds
+item.seed_poppy.name=Poppy Seeds
+item.seed_allium.name=Allium Seeds
+item.seed_azurebluet.name=Azure Bluet Seeds
+item.seed_blueorchid.name=Blue Orchid Seeds
+item.seed_oxeyedaisy.name=Oxeye Daisy Seeds

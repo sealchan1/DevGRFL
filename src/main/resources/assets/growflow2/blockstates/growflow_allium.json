@@ -1,0 +1,16 @@
+{
+    "forge_marker": 1,
+    
+    "variants": 
+    {
+        "age=0": { "model": "growflow2:growflow_allium0" },
+        "age=1": { "model": "growflow2:growflow_allium1" },
+        "age=2": { "model": "growflow2:growflow_allium2" },
+        "age=3": { "model": "growflow2:growflow_allium3" },
+        "age=4": { "model": "growflow2:growflow_allium4" },
+        "age=5": { "model": "growflow2:growflow_allium5" },
+        "age=6": { "model": "growflow2:growflow_allium6" },
+        "age=7": { "model": "growflow2:growflow_allium7" }
+    }
+}
+
