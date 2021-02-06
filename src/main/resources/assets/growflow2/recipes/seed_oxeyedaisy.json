@@ -1,17 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern":
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients":
     [
-        "DD"
-    ],
-    "key":
-    {
-        "D":
+        {
+            "item": "minecraft:red_flower",
+            "data": 8
+        },
+        
         {
             "item": "minecraft:red_flower",
             "data": 8
         }
-    },
+    ],
+    
     "result":
     {
         "item": "growflow2:seed_oxeyedaisy",

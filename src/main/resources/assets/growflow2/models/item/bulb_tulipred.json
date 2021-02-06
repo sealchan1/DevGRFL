@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures":
+    {
+        "layer0": "growflow2:items/bulb_tulipred"
+    }
+}  

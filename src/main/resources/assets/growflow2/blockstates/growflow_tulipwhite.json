@@ -1,0 +1,16 @@
+{
+    "forge_marker": 1,
+    
+    "variants": 
+    {
+        "age=0": { "model": "growflow2:growflow_tulipwhite0" },
+        "age=1": { "model": "growflow2:growflow_tulipwhite1" },
+        "age=2": { "model": "growflow2:growflow_tulipwhite2" },
+        "age=3": { "model": "growflow2:growflow_tulipwhite3" },
+        "age=4": { "model": "growflow2:growflow_tulipwhite4" },
+        "age=5": { "model": "growflow2:growflow_tulipwhite5" },
+        "age=6": { "model": "growflow2:growflow_tulipwhite6" },
+        "age=7": { "model": "growflow2:growflow_tulipwhite7" }
+    }
+}
+

@@ -6,6 +6,10 @@ tile.growflow_allium.name=Allium
 tile.growflow_azurebluet.name=Azure Bluet
 tile.growflow_blueorchid.name=Blue Orchid
 tile.growflow_oxeyedaisy.name=Oxeye Daisy
+tile.growflow_tuliporange.name=Orange Tulip
+tile.growflow_tulipred.name=Red Tulip
+tile.growflow_tulippink.name=Pink Tulip
+tile.growflow_tulipwhite.name=White Tulip
 
 // Items
 item.seed_dandelion.name=Dandelion Seeds
@@ -14,3 +18,7 @@ item.seed_allium.name=Allium Seeds
 item.seed_azurebluet.name=Azure Bluet Seeds
 item.seed_blueorchid.name=Blue Orchid Seeds
 item.seed_oxeyedaisy.name=Oxeye Daisy Seeds
+item.bulb_tuliporange.name=Orange Tulip Bulb
+item.bulb_tulipred.name=Red Tulip Bulb
+item.bulb_tulippink.name=Pink Tulip Bulb
+item.bulb_tulipwhite.name=White Tulip Bulb

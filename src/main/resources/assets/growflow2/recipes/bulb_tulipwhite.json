@@ -5,18 +5,18 @@
     [
         {
             "item": "minecraft:red_flower",
-            "data": 3
+            "data": 6
         },
         
         {
             "item": "minecraft:red_flower",
-            "data": 3
+            "data": 6
         }
     ],
     
     "result":
     {
-        "item": "growflow2:seed_azurebluet",
+        "item": "growflow2:bulb_tulipwhite",
         "count": 2
     }
 }

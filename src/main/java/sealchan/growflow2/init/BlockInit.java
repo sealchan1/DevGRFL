@@ -13,6 +13,10 @@ import sealchan.growflow2.objects.blocks.growflows.VANI_BlueOrchid;
 import sealchan.growflow2.objects.blocks.growflows.VANI_Dandelion;
 import sealchan.growflow2.objects.blocks.growflows.VANI_OxeyeDaisy;
 import sealchan.growflow2.objects.blocks.growflows.VANI_Poppy;
+import sealchan.growflow2.objects.blocks.growflows.VANI_TulipOrange;
+import sealchan.growflow2.objects.blocks.growflows.VANI_TulipPink;
+import sealchan.growflow2.objects.blocks.growflows.VANI_TulipRed;
+import sealchan.growflow2.objects.blocks.growflows.VANI_TulipWhite;
 
 public class BlockInit 
 {
@@ -24,4 +28,8 @@ public class BlockInit
 	public static final Block GROWFLOW_AZUREBLUET = new VANI_AzureBluet("growflow_azurebluet");
 	public static final Block GROWFLOW_BLUEORCHID = new VANI_BlueOrchid("growflow_blueorchid");
 	public static final Block GROWFLOW_OXEYEDAISY = new VANI_OxeyeDaisy("growflow_oxeyedaisy");
+	public static final Block GROWFLOW_TULIPORANGE = new VANI_TulipOrange("growflow_tuliporange");
+	public static final Block GROWFLOW_TULIPRED = new VANI_TulipRed("growflow_tulipred");
+	public static final Block GROWFLOW_TULIPPINK = new VANI_TulipPink("growflow_tulippink");
+	public static final Block GROWFLOW_TULIPWHITE = new VANI_TulipWhite("growflow_tulipwhite");
 }
