@@ -1,0 +1,16 @@
+{
+    "forge_marker": 1,
+    
+    "variants": 
+    {
+        "age=0": { "model": "growflow2:growflow_tuliporange0" },
+        "age=1": { "model": "growflow2:growflow_tuliporange1" },
+        "age=2": { "model": "growflow2:growflow_tuliporange2" },
+        "age=3": { "model": "growflow2:growflow_tuliporange3" },
+        "age=4": { "model": "growflow2:growflow_tuliporange4" },
+        "age=5": { "model": "growflow2:growflow_tuliporange5" },
+        "age=6": { "model": "growflow2:growflow_tuliporange6" },
+        "age=7": { "model": "growflow2:growflow_tuliporange7" }
+    }
+}
+
